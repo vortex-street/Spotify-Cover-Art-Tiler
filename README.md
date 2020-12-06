@@ -25,7 +25,7 @@ client_id and client_secret can be found on the page of the app you created in s
 ```
   python3 spotify_tiler.py
 ```
-5. Enter user ID when prompted.
+5. Enter user ID and URI when prompted.
 6. Your browser will redirect to a page asking to connect to the app. Click Okay.
 7. Enter http://google.com/ (or your redirect uri if other) when prompted.
-8. Follow the prompts!
+8. Follow the prompts for awesome cover art tiling!
