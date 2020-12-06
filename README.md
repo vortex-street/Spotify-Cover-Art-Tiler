@@ -1,5 +1,6 @@
 # Spotify-Cover-Art-Tiler
 Creates uniquely tiled cover arts for Spotify playlists
+![alt text](https://ibb.co/Ykjpn17)
 
 ## Description
 This project uses the SpotiPy API to replace playlist cover arts with a tiled image based off the albums in the playlist. Basic terminal prompts allow the user to apply the imaging to all, or select playlists on their account.
